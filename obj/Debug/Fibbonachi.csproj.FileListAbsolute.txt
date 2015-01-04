@@ -1,0 +1,6 @@
+C:\develop\Fibbonachi\Fibbonachi\bin\Debug\Fibbonachi.exe.config
+C:\develop\Fibbonachi\Fibbonachi\bin\Debug\Fibbonachi.exe
+C:\develop\Fibbonachi\Fibbonachi\bin\Debug\Fibbonachi.pdb
+C:\develop\Fibbonachi\Fibbonachi\obj\Debug\Fibbonachi.exe
+C:\develop\Fibbonachi\Fibbonachi\obj\Debug\Fibbonachi.pdb
+C:\develop\Fibbonachi\Fibbonachi\obj\Debug\Fibbonachi.csprojResolveAssemblyReference.cache
